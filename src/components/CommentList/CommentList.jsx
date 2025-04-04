@@ -1,4 +1,5 @@
 /* eslint-disable */
+import './CommentList.scss';
 
 import { CommentInfo } from '../CommentInfo/CommentInfo';
 

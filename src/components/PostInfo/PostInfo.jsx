@@ -1,5 +1,7 @@
 /* eslint-disable */
 
+import './PostInfo.scss';
+
 import { UserInfo } from '../UserInfo/UserInfo';
 import { CommentList } from '../CommentList/CommentList';
 
